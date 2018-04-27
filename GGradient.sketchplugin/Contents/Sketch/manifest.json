@@ -1,0 +1,21 @@
+{
+  "name": "GGradient",
+  "identifier": "com.andexds.ggradient",
+  "version": "1.0",
+  "description": "Perfect Gradient",
+  "authorEmail": "andexds@gmail.com",
+  "author": "Andrey Anashkin",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "script": "getgradient.js",
+      "shortcut": "ctrl shift g",
+      "name": "Get Gradient",
+      "identifier": "andexds.getgradient"
+    }
+  ],
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com/npm/npm/master/.appcast.xml"
+}

@@ -1,18 +1,20 @@
 {
+  "name" : "GGradient",
+  "identifier" : "com.andexds.ggradient",
+  "version" : "1.0",
+  "description" : "Perfect Gradient",
+  "authorEmail" : "andexds@gmail.com",
+  "author" : "Andrey Anashkin",
+
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "icon": "icon.png",
-  "commands": [
+  "commands" : [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "script" : "./getgradient.js",
+      "shortcut" : "ctrl shift g",
+      "name" : "Get Gradient",
+      "identifier" : "andexds.getgradient"
     }
-  ],
-  "menu": {
-    "title": "GGradient",
-    "items": [
-      "my-command-identifier"
-    ]
-  }
+  ]
 }

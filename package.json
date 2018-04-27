@@ -1,5 +1,5 @@
 {
-  "name": "ggradient",
+  "name": "GGradient",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=3.0"
@@ -7,7 +7,7 @@
   "skpm": {
     "name": "GGradient",
     "manifest": "src/manifest.json",
-    "main": "plugin.sketchplugin",
+    "main": "GGradient.sketchplugin",
     "assets": [
       "assets/**/*"
     ]
@@ -20,5 +20,9 @@
   },
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/npm/npm.git"
   }
 }
