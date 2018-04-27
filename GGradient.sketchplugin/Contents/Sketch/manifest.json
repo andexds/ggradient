@@ -17,5 +17,5 @@
     }
   ],
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com/npm/npm/master/.appcast.xml"
+  "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml"
 }

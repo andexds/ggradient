@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Simple way to create perfect gradient",
   "engines": {
-    "sketch": ">=3.0"
+    "sketch": ">=4.0"
   },
   "skpm": {
     "name": "GGradient",

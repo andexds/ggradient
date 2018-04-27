@@ -9,5 +9,3 @@ Download GGradient.sketchplugin and open it.
 ## Usage
 
 Use CMD+SHIFT+G
-
-# ggradient
