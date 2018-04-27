@@ -1,6 +1,6 @@
 {
   "name": "GGradient",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple way to create perfect gradient",
   "engines": {
     "sketch": ">=4.0"
@@ -23,7 +23,7 @@
     "@skpm/builder": "^0.5.2"
   },
   "repository": {
-      "type" : "git",
-      "url" : "https://github.com/andex/ggradient.git"
+    "type": "git",
+    "url": "https://github.com/andex/ggradient.git"
   }
 }
