@@ -1,7 +1,6 @@
 {
   "name": "GGradient",
   "identifier": "com.andexds.ggradient",
-  "version": "1.0",
   "description": "Perfect Gradient",
   "authorEmail": "andexds@gmail.com",
   "author": "Andrey Anashkin",
@@ -16,6 +15,7 @@
       "identifier": "andexds.getgradient"
     }
   ],
+  "version": "0.1.1",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml"
 }
