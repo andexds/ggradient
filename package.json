@@ -1,6 +1,7 @@
 {
   "name": "GGradient",
   "version": "0.1.0",
+  "description": "Simple way to create perfect gradient",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -23,6 +24,6 @@
   },
   "repository": {
       "type" : "git",
-      "url" : "https://github.com/npm/npm.git"
+      "url" : "https://github.com/andex/ggradient.git"
   }
 }
