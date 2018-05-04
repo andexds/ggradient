@@ -2,20 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-<<<<<<< HEAD
-      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.3.0/GGradient.sketchplugin.zip" sparkle:version="0.3.0"/>
-=======
-      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.4.0/GGradient.sketchplugin.zip" sparkle:version="0.4.0"/>
->>>>>>> my-temporary-work
-    </item>
-    <item>
-      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.2.0/GGradient.sketchplugin.zip" sparkle:version="0.2.0"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.1.2/GGradient.sketchplugin.zip" sparkle:version="0.1.2"/>
-    </item>
-    <item>
-      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.1.1/GGradient.sketchplugin.zip" sparkle:version="0.1.1"/>
+      <enclosure url="https://github.com/andex/ggradient/releases/download/v0.5.0/GGradient.sketchplugin.zip" sparkle:version="0.5.0"/>
     </item>
   </channel>
 </rss>
