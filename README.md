@@ -16,6 +16,8 @@ Double click the downloaded file (*GGradient.sketchplugin*) to install it.
 
 Use CMD+SHIFT+G
 
+## Do you like the plugin?
+
 **If you are using this plugin, please 'star' this project**. It's a simple way for me to be able to see how many people are using this, and how much effort I need to put into improving it further.
 
 If you ***love*** this plugin, why not shout me a coffee ☕️ via [PayPal](https://paypal.me/andexds/3) to share the love!
