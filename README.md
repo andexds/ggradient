@@ -6,7 +6,7 @@
 
 ![Using GGradient](.images/GGradient.gif)
 
-<a href="https://github.com/DWilliames/paddy-sketch-plugin/archive/master.zip">
+<a href="https://github.com/andex/ggradient/archive/master.zip">
   # Download GGradient Plugin
 </a>
 
