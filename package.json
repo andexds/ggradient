@@ -1,6 +1,10 @@
 {
   "name": "GGradient",
+<<<<<<< HEAD
   "version": "0.3.0",
+=======
+  "version": "0.4.0",
+>>>>>>> my-temporary-work
   "description": "Simple way to create perfect gradient",
   "engines": {
     "sketch": ">=4.0"
