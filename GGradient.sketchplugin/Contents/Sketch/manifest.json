@@ -15,7 +15,7 @@
       "identifier": "andexds.getgradient"
     }
   ],
-  "version": "0.2.0",
+  "version": "0.4.0",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml"
 }
