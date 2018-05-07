@@ -26,3 +26,5 @@ It will definitely help me to be able to support this plugin further.
 <a href="https://paypal.me/andexds/3">
   ☕️ Shout me a coffee
 </a>
+
+Follow me on https://www.facebook.com/andexds
